@@ -1,4 +1,7 @@
 # Incognito
+
+[![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=internet-explorer&logoColor=white&link=https://-.web.app/)](https://-.web.app/)
+
 Incognito Solana implements the first zero-knowledge privacy solution for mixing Solana in an untraceable manner.
 
 It employs a smart contract that accepts transactions in \verb|Sol| so that the amount can be later withdrawn with no reference to the original transaction. This ensures anonymity for our users, while also providing protection against malicious third parties. Incognito also enforces strict guarantees against double-withdrawals and prevents theft while maintaining user-privacy.

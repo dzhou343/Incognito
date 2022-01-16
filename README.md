@@ -1,8 +1,8 @@
 # Incognito
 
-Read [![Read Whitepaper](https://img.shields.io/badge/-Whitepaper-blue?style=for-the-badge&logo=book&logoColor=white&link=https://github.com/IncognitoSolana/Incognito/blob/main/Incognito_Whitepaper.pdf)](https://github.com/IncognitoSolana/Incognito/blob/main/Incognito_Whitepaper.pdf)
-
 Incognito Solana implements the first zero-knowledge privacy solution for mixing Solana in an untraceable manner.
+
+[![Read Whitepaper](https://img.shields.io/badge/-Whitepaper-green?style=for-the-badge&logo=book&logoColor=white&link=https://github.com/IncognitoSolana/Incognito/blob/main/Incognito_Whitepaper.pdf)](https://github.com/IncognitoSolana/Incognito/blob/main/Incognito_Whitepaper.pdf)
 
 It employs a smart contract that accepts transactions in \verb|Sol| so that the amount can be later withdrawn with no reference to the original transaction. This ensures anonymity for our users, while also providing protection against malicious third parties. Incognito also enforces strict guarantees against double-withdrawals and prevents theft while maintaining user-privacy.
 

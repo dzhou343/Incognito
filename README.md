@@ -1,6 +1,6 @@
 # Incognito
 
-[![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=internet-explorer&logoColor=white&link=https://-.web.app/)](https://-.web.app/)
+[![Read Whitepaper](https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=internet-explorer&logoColor=white&link=https://github.com/IncognitoSolana/Incognito/blob/main/Incognito_Whitepaper.pdf)](https://github.com/IncognitoSolana/Incognito/blob/main/Incognito_Whitepaper.pdf)
 
 Incognito Solana implements the first zero-knowledge privacy solution for mixing Solana in an untraceable manner.
 
